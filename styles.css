@@ -23,20 +23,28 @@ body {
     rgb(244, 210, 226) 100.3%
   );
    font-family: "Mulish", sans-serif;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100%;
 }
 
 button {
   width: 100%;
 }
 
+footer {
+  margin-bottom: 200px;
+}
+
+
 .container {
   display: block;
   margin: 0 auto;
-  margin-top: 60px;
+  margin-top: 90px;
   margin-bottom: 40px;
   padding: 30px 20px 30px 20px;
   width: 700px;
-  height: 550px;
+  height: 570px;
   background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/060/751/original/billy-huynh-v9bnfMCyKbg-unsplash.jpg?1672414708");
   border-radius: 5px;
   }
@@ -89,6 +97,3 @@ button {
   font-size: 12px;
 }
 
-.space {
-  margin-bottom: 60px;
-}
