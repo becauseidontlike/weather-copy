@@ -1,0 +1,94 @@
+h1,
+h2 {
+  font-family: "Mulish", sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+body {
+  background: linear-gradient(
+    109.6deg,
+    rgb(185, 212, 242) 11.2%,
+    rgb(244, 210, 226) 100.3%
+  );
+   font-family: "Mulish", sans-serif;
+}
+
+button {
+  width: 100%;
+}
+
+.container {
+  display: block;
+  margin: 0 auto;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  padding: 30px 20px 30px 20px;
+  width: 700px;
+  height: 550px;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/060/751/original/billy-huynh-v9bnfMCyKbg-unsplash.jpg?1672414708");
+  border-radius: 5px;
+  }
+
+.bold {
+  font-weight: 600;
+}
+
+.actualTemp {
+  font-size: 65px;
+  position: relative;
+  top: 5px;
+}
+
+.active2 {
+ text-decoration: none;
+}
+
+.active {
+  color: rgb(5, 9, 34);
+  text-decoration: none;
+}
+
+.units {
+  font-size: 20px;
+}
+
+.other {
+  font-size: 45px;
+}
+
+.current {
+  text-transform: uppercase;
+}
+
+.center,
+.day,
+.temp,
+.sign {
+  text-align: center;
+}
+
+.strong {
+  font-weight: bolder;
+  font-size: 15px;
+}
+
+.small,
+.sign {
+  font-size: 12px;
+}
+
+.space {
+  margin-bottom: 60px;
+}
