@@ -36,6 +36,13 @@ footer {
   margin-bottom: 200px;
 }
 
+.col-2:hover {
+  background-color: rgb(241, 212, 217);
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 5px;
+  font-weight: 700;
+}
 
 .container {
   display: block;
